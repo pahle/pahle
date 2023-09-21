@@ -28,5 +28,14 @@
 
 <p align="center">
 <!--START_SECTION:waka-->
+
+```rust
+From: 03 December 2022 - To: 20 September 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </p>
