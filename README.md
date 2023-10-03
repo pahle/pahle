@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">Weekly development breakdown</h2>
+<h2 align="center">Total development breakdown</h2>
 
 <p align="center">
 <!--START_SECTION:waka-->
