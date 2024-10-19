@@ -24,19 +24,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 December 2022 - To: 14 October 2024
+From: 03 December 2022 - To: 16 October 2024
 
-Total Time: 342 hrs 31 mins
+Total Time: 342 hrs 43 mins
 
-JavaScript         162 hrs 8 mins  >>>>>>>>>>>>-------------   47.34 %
-Dart               47 hrs 7 mins   >>>----------------------   13.76 %
-PHP                46 hrs 44 mins  >>>----------------------   13.65 %
-TypeScript         23 hrs 57 mins  >>-----------------------   07.00 %
+JavaScript         162 hrs 21 mins >>>>>>>>>>>>-------------   47.37 %
+Dart               47 hrs 7 mins   >>>----------------------   13.75 %
+PHP                46 hrs 44 mins  >>>----------------------   13.64 %
+TypeScript         23 hrs 57 mins  >>-----------------------   06.99 %
 JSON               15 hrs 1 min    >------------------------   04.38 %
 Python             11 hrs 42 mins  >------------------------   03.42 %
 Prisma             7 hrs 10 mins   >------------------------   02.09 %
 CSS                5 hrs 47 mins   -------------------------   01.69 %
-C++                4 hrs 30 mins   -------------------------   01.32 %
+C++                4 hrs 30 mins   -------------------------   01.31 %
 HTML               3 hrs 59 mins   -------------------------   01.17 %
 ```
 
