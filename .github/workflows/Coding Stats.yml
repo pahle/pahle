@@ -18,6 +18,6 @@ jobs:
           LANG_COUNT: 10
           SHOW_TITLE: true
           CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
+          # TIME_RANGE: all_time # optional
           SHOW_TOTAL: true # optional
           STOP_AT_OTHER: true # optional
