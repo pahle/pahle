@@ -24,16 +24,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 August 2025 - To: 16 August 2025
+From: 11 August 2025 - To: 18 August 2025
 
-Total Time: 21 hrs 5 mins
+Total Time: 20 hrs 14 mins
 
-HTML            13 hrs 23 mins  >>>>>>>>>>>>>>>>---------   63.51 %
-CSS             3 hrs 27 mins   >>>>---------------------   16.42 %
-JavaScript      1 hr 52 mins    >>-----------------------   08.85 %
-PHP             1 hr 40 mins    >>-----------------------   07.91 %
-TypeScript      18 mins         -------------------------   01.45 %
-Other           10 mins         -------------------------   00.87 %
+HTML            9 hrs 26 mins   >>>>>>>>>>>>-------------   46.67 %
+TypeScript      5 hrs 38 mins   >>>>>>>------------------   27.86 %
+JavaScript      2 hrs 6 mins    >>>----------------------   10.45 %
+PHP             1 hr 40 mins    >>-----------------------   08.24 %
+CSS             49 mins         >------------------------   04.09 %
+Prisma          11 mins         -------------------------   00.94 %
+Markdown        10 mins         -------------------------   00.87 %
+Other           4 mins          -------------------------   00.39 %
 ```
 
 <!--END_SECTION:waka-->
